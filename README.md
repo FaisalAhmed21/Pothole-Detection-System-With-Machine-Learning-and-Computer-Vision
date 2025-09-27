@@ -20,8 +20,8 @@ This project is an advanced computer vision system that detects, tracks, and ana
 
 ## Project Paper
 
-You can read the full research paper for this project here:
-[📄 Project Paper (PDF)](resources/Smart Pothole Recognition for Size-Based Road Damage Assessment.pdf)
+You can read the full research paper for this project here:  
+[📄 Project Paper (PDF)](resources/Smart%20Pothole%20Recognition%20for%20Size-Based%20Road%20Damage%20Assessment.pdf)
 
 ## Requirements
 
